@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Matheus Inácio Santos</title>
+  <desc id="desc">Data Engineering, Cloud Architecture, and Optimization. A dark blue banner with a teal and blue data network.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1221"/>
+      <stop offset="1" stop-color="#122B3D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="64" y1="0" x2="1136" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#8BA6BC" fill-opacity=".15"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+  <rect x="64" y="61" width="44" height="4" rx="2" fill="#5EEAD4"/>
+  <text x="64" y="106" fill="#5EEAD4" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="3">MATHEUS013 / GITHUB</text>
+  <text x="60" y="176" fill="#F1F5F9" font-family="'Segoe UI',Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="-1.6">Matheus Inácio Santos</text>
+  <text x="64" y="218" fill="#B8C9D9" font-family="'Segoe UI',Arial,sans-serif" font-size="18">Data Engineering · Cloud Architecture · Optimization</text>
+  <path d="M64 278H1136" stroke="url(#accent)" stroke-opacity=".3"/>
+  <g stroke="#5EEAD4" stroke-opacity=".4" stroke-width="2">
+    <path d="M864 102L944 170L864 238M944 170L1044 102M944 170L1044 238M1044 102L1124 170L1044 238"/>
+    <path d="M864 102V238M1044 102V238" stroke-dasharray="4 7" stroke-opacity=".2"/>
+  </g>
+  <g fill="#122B3D" stroke="#5EEAD4" stroke-width="2">
+    <rect x="853" y="91" width="22" height="22" rx="6"/>
+    <rect x="853" y="227" width="22" height="22" rx="6"/>
+    <rect x="1033" y="91" width="22" height="22" rx="6"/>
+    <rect x="1033" y="227" width="22" height="22" rx="6"/>
+  </g>
+  <circle cx="944" cy="170" r="27" fill="#5EEAD4" fill-opacity=".07" stroke="#5EEAD4" stroke-opacity=".2"/>
+  <circle cx="944" cy="170" r="9" fill="#5EEAD4"/>
+  <circle cx="1124" cy="170" r="8" fill="#60A5FA"/>
+</svg>

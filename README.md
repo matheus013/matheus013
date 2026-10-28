@@ -1,78 +1,54 @@
-<h1 align="center">🚀 Matheus Inácio Santos</h1>
-<h3 align="center">Senior Data Engineer | Cloud & Big Data Architect | DataOps Enthusiast</h3>
-
 <p align="center">
-  <a href="https://linkedin.com/in/mib-santos" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" />
-  </a>
-  <a href="mailto:matheusinacio.bs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" />
-  </a>
-  <a href="https://instagram.com/matheusinacio.bs" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" />
-  </a>
+  <img src="./assets/profile-header.svg" alt="Matheus Inácio Santos — Data Engineering · Cloud Architecture · Optimization" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matheus013&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <strong>Senior Data Engineer · Cloud Architecture · DataOps</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mib-santos/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:matheusinacio.bs@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/matheusinacio.bs/">Instagram</a>
 </p>
 
 ---
 
-### 🧠 Sobre mim
+### Data, from architecture to operations
 
-Sou um **Engenheiro de Dados Sênior** apaixonado por transformar dados em valor de negócio. Trabalho com arquiteturas escaláveis, pipelines distribuídos e automações orientadas a DataOps. Possuo experiência em ambientes **cloud-native** e on-premises, sempre priorizando **governança**, **performance** e **custo-eficiência**.
+I'm Matheus, a Senior Data Engineer working on **scalable data architectures, distributed pipelines, and automation** across cloud and on-premises environments. I build platforms that balance performance, governance, and cost efficiency.
 
-- 🛠️ Especialista em **AWS**, **Athena**, **Airflow**, **DBT**, **Terraform**, **PySpark**
-- 🌎 Foco em **Data Lakehouses**, **Governança de Dados** e **FinOps**
-- 📚 Mestrando em Otimização e apaixonado por resolver problemas complexos com modelagem matemática
-- 👨‍🏫 Mentoria e produção de conteúdo técnico em Data Engineering
+My work brings together data engineering and DataOps, from infrastructure as code to orchestration and data transformation. I'm also pursuing a **master's degree in Optimization**, exploring mathematical modeling to solve complex problems, and sharing knowledge through mentoring and technical content.
 
----
+### Tools & expertise
 
-### 🚧 Stack Principal
+| Area | Technologies & focus |
+| :--- | :--- |
+| **Data engineering** | Python · PySpark · SQL · Spark |
+| **Cloud & infrastructure** | AWS · Athena · Terraform |
+| **Orchestration & transformation** | Apache Airflow · dbt |
+| **Storage & architecture** | PostgreSQL · Data Lakes · Lakehouses |
+| **Operations & governance** | DataOps · Data Governance · FinOps |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+### Projects to explore
 
----
+Beyond data engineering, my repositories include experiments in software development, automation, and hardware integration.
 
-### 📈 GitHub Analytics
+| Project | What you'll find |
+| :--- | :--- |
+| **[DevForge AI](https://github.com/matheus013/devforge)** | A software management platform prototype with planning, approvals, and simulated agent runs. Built with Django, Next.js, and Docker Compose. |
+| **[LED Sync](https://github.com/matheus013/led-sync)** | Unified PC RGB lighting control with OpenRGB integration, audio-reactive effects, and GPU control over I²C. |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheus013&show_icons=true&theme=tokyonight" alt="Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus013&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheus013&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
+[Explore all repositories →](https://github.com/matheus013?tab=repositories)
 
----
+### On my radar
 
-### 🔭 Atualmente aprendendo
-- Otimização de jobs Spark com **Adaptive Query Execution**
-- Práticas avançadas de **CI/CD para pipelines de dados**
-- Integrações com **OpenMetadata** e **Great Expectations**
+- **Performance:** optimizing Spark jobs with Adaptive Query Execution.
+- **Reliability:** CI/CD for data pipelines, data quality, and observability.
+- **Metadata & validation:** integrations with OpenMetadata and Great Expectations.
 
 ---
 
-### 🤝 Vamos conversar?
-
-Se quiser bater um papo sobre dados, arquitetura ou colaborar em projetos open source:
-
-- 💬 Discord: `Lerigou#6976`
-- 📫 Email: matheusinacio.bs@gmail.com
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheus013&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
-</p>
+**Let's connect.** I'm happy to exchange ideas about data architecture, optimization, and open-source projects. Reach out on [LinkedIn](https://www.linkedin.com/in/mib-santos/) or by [email](mailto:matheusinacio.bs@gmail.com).
